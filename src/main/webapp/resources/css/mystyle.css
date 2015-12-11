@@ -1,0 +1,14 @@
+.my-row
+{
+    border-bottom: 1px solid dimgrey;
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 5px 50px 5px 5px ; /* Отступы вокруг картинки */
+}
+
+.rightimg  {
+    float: right; /* Выравнивание по правому краю  */
+    margin: 5px 5px 5px 50px; /* Отступы вокруг картинки */
+}
